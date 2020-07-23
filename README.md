@@ -1,2 +1,2 @@
 # AzureNotebooks
-Varioety of demo notebooks done with R, Python, and F#
+Variety of demo notebooks done with R, Python, and F#
