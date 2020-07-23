@@ -12,7 +12,7 @@ attButNotRegistered = attEmails.difference(regEmails)
 regAndAttended = attEmails.intersection(regEmails)
 notBoth = attEmails.symmetric_difference(regEmails)
 
-# # Output Operations
+# Output Operations
 print()
 print("Number of Attendees: " + str(len(attEmails)))
 print("Number of Registered: " + str(len(regEmails)) + "\n")
