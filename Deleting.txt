@@ -6,36 +6,24 @@ The choice of words influences our perceptions, and although this instance might
 
 As Orwell, wrote in 1984, "Who controls the past controls the future."
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243322
-
-
 And which fascist political stance created and uses PC as a pejorative and is against equality, human rights, diplomacy, facts, and science? Look around…
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243497
 
 
 The name of the degree is not the issue, it is the relationship it describes. Although the terms of degrees signify a hierarchy, it is not racist or gendered per see, nor particularly offensive
 As for banning master as a repo aspect, the .NET world has been using main and branch fr quite some time. I’ve never seen anyone use the terms master or slave in the .NET world, except when referring to drives, and even then, the master drive is usually called the boot drive.
 Really though, why get upset about this?
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243505
-
 
 I've worked with enough belligerent, sexist, and intimidating men, blind to their ignorance and hostility. They certainly don't find me fun, particularly when I don't tolerate bullying of others or question their anti-female bias.
 
 I guess we are both lucky, not to work with each other. Someone like you is exactly why I think tech has a problem that it can barely recognize...
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243522
-
 
 People still apply and differentiate on color labels and the best choice of term is African-American. Using the term black is so negatively loaded it immediately biases people against the person. Use of the term African-American levels the perceptual field.
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243524
-
 
 The one time I can agree with anyone is this forum is one aspect of your post, is that I do think that much of the corporate press releases are just messaging without substance, what you call pandering, although the human beings behind them are likely sincere. Most others posting here are just absurd, griping with no relationship to the actual concept discussed.
-
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243531
 
 
 No, women in those sports are exceptions, not the rule. Even men who never seriously played sports often understand them because they played them when they were younger. The choice of terms, the metaphors one uses, and how they are delivered matter, whether people are conscious or not.
@@ -44,16 +32,12 @@ Anecdote:
 
 A noted world-class poker player, a Ph.D. in cognitive psychology, a woman, came to my employer to give a short talk about decision making and risk. She used a football metaphor based on a well-known (at least to some men) play, to discuss concepts about decision-making, how to assess its quality. I chatted with a few mid-senior women, doctors and researchers, afterward. It was mostly lost on them. The speaker could have chosen a much better metaphor and been much more successful.
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243542
 
 And it’s not primarily about avoiding offense, although the anti-PC contingent will describe it that way. You seem to be missing aspects of equality, human welfare, and growth, about fairness, about breaking free of historical structures that are inherently wrong and unfair.
-
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243545
 
 
 Woke isn't really my thing. I'm 60, and I've thought this way since I started thinking independently, for almost 50 years. Although I might have evolved over time, changed and added elements, but I've always been concerned about equality and human welfare.
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243546
 
 
 Maybe the issue isn't so much about the past, but about the future. If one needs to be fair in hiring, equitable in assessments, free from inappropriate personal bias, then one needs to realize the exclusionary, non-inclusive terms that are frequently used. And it is not just terms used, it is in processes and evaluations we use reflexively.
@@ -64,12 +48,10 @@ I went to middle school, 6th to 8th grade, at a place named after Jonas Salk, th
 
 Anyway, the point is the terms you use now set the frame for the future.
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243609
 
 
 Thank you. I have to wonder who inhabits these forums, conservative trolls, tech people, etc. Even then, I've sometimes been surprised by the underlying traditionality and hostility expressed by male peers in technology and software development. I don't question myself, but I do question the industry.
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243612
 
 
 Wow, what a misguided analogy! Do you think that the history of slavery and emancipation, and the actions of taking down confederate statues, reforming the police, the criminal justice system might better inform your analogy? And who do you think are covering the figurative table legs? Glossing over the history of the confederacy and racist traitors with states' rights is more similar to Victorian denial.
@@ -78,12 +60,10 @@ Although the terms are minor in importance and effect, it fits in with a larger 
 
 As I wrote above, "Maybe the issue isn’t so much about the past, but about the future. If one needs to be fair in hiring, equitable in assessments, free from inappropriate personal bias, then one needs to realize the exclusionary, non-inclusive terms that are frequently used. And it is not just terms used, it is in processes and evaluations we use reflexively."
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243823
 
 
 An inventor has the right to name anything, but so do we collectively have the right to name it differently. Language is driven collectively, and usually without a head unless it is somehow legally limited…
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243824
 
 
 I read and rely on studies for a deeper understanding of the world. Your personal opinion is less important to me than the general truth of something, particularly if my reading is statistically and scientifically validated.
@@ -94,7 +74,6 @@ When favoring the term African-American, I am referencing studies that show most
 
 I can't make everyone happy, but try to do my best to be fair and equitable, essentially threading the needle.
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243929
 
 
 Considering what I perceive as racists in this forum, I was wondering I you bothered to criticize anyone else? It would be astounding, even if true, that I am the one worthy of criticism. Considering the level of racism in this country, and seemingly exemplified in this forum, am I the one you should be calling out?
@@ -105,7 +84,6 @@ Although I at times struggle using the term African-American, say when the perso
 
 You could say that I simply avoid thinking about ethnicity and race, but that in itself enables a more insidious form of racism, the kind where bias isn't even recognized, simply effected. The police do this all the time, in that are they are most likely to claim color-blindness when in fact they are more likely to behave in a racist manner.
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243936
 
 In context, my statement is appropriate. The prior comments were contrasting terms, and as mentioned, the idea of color-blindness is a non-starter, an enabler of racism rather than a cure.
 
@@ -113,22 +91,18 @@ Also, discussing terms this way never comes up in my interactions with people of
 
 Even then, as mentioned, one can’t please everyone. Of the African diaspora in the US, only about 9% of the existing Black population are immigrants or about 1% of the US total population. From this, I assume you are just gutter-sniping since obviously, no term is correct for all people and preferences, and that your criticism by exception is not significant.
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3243996
 
 @pt – Actually, I went through some literature, and agree I do have to tweak my algorithm for naming. Obviously, I would refer to someone as they preferred – this is my default – but in the abstract, I would still use African-American predominantly and would use Black when referring to people that of more recent origins, e.g., Jamaica, Nigeria, etc.
 To be honest, in effect, it would matter little, as neither are terms I use in conversation, I generally avoid labeling people, and would only apply it if I was describing a group of people, or needed the property for describing an individual or situation…
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3244018
 
 
 BTW, from what I saw, using the term Black still had negative connotations in white minds, while African-American did not...
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3244019
 
 
 For the most part, I agree with you, but we can't be certain that all the hostile posters are white men. Regardless of race or gender, many seem to be small-minded, making frivolous arguments, or ranting in tangential ways unrelated to the article and other posters.
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3244111
 
 
 Why a non-sequitur, or is that just you "ranting in tangential ways unrelated to the article and other posters" but on purpose? 
@@ -137,20 +111,16 @@ Honest, as you can see from my comments, as opposed to the blather posted irrele
 
 Although I could agree on some level about inequality, once could also argue that is was better in some periods of the last century, and currently better in other places in the world. As well, some countries have a quality-of-life perspective that makes work in their cultures less onerous.
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3244753'
 
 
 I will refer to you any way you like, but it’s not the point. Worse, you assume it’s the under-30-white-people-thing…
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3245320
 
 
 To clarify, discussing a group of people, one might – if it is necessitated by the topic – describe it as African-American, Black, or even Afro-Caribbean, You as an individual might prefer one or none of those tags. I certainly, as an individual, have no way to divine your preference, and if I did have to talk about someone in the third-person, the best I can do is rely on broad preferences of the group. From my perspective, a survey of preferences for the Black community would be a guidepost, but I don’t currently have one, although you might find it unsatisfying.
 
-https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3245343
 
 @Jonhas - Any term can be loaded with meaning. The word pig can refer to an animal, but when applied to men or women as a descriptive it simply becomes negative. There is nothing wrong with the word black, or with being Black, or African American, or Afro-Caribbean, etc., but in studies looking at bias, use of the term black as a quality of a person leads white people to question the described person's competence, as well as to negatively affect the perception of other qualities. The studies I am referring to are relatively recent, so even if the preference is for the term Black, it might come with semantic baggage...
-
 https://insights.dice.com/2020/06/16/developers-debate-deleting-master-slave-code-terminology/#comment-3246932
 
 
